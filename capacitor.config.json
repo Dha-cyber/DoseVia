@@ -1,0 +1,16 @@
+{
+  "appId": "com.DoseVia.dashboard",
+  "appName": "DoseVia",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "iosScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  },
+  "ios": {
+    "contentInset": "automatic"
+  }
+}

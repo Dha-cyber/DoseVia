@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DoseVia</string>
+    <string name="title_activity_main">DoseVia</string>
+    <string name="package_name">com.DoseVia.dashboard</string>
+    <string name="custom_url_scheme">com.DoseVia.dashboard</string>
+</resources>
